@@ -1,0 +1,19 @@
+.icon-section {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #f0f0f0; 
+    padding: 20px; 
+}
+  
+  .icon-section h3 {
+    margin: 0; 
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .icon-section i {
+    font-size: 24px; 
+    margin-right: 8px; 
+  }
+  
